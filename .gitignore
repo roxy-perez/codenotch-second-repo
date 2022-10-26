@@ -1,0 +1,5 @@
+# Don't track these folders
+reto_2/
+
+# Don't track files like these
+*.png
